@@ -1,0 +1,49 @@
+{
+  "version": "default-asset-version",
+  "ads_config": {
+    "enable": true,
+    "interval": 30
+  },
+  "ad_units": {
+    "open_splash": {
+      "units": [
+        {
+          "ad_network": "admob"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_apply": {
+      "units": [
+        {
+          "ad_network": "admob"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_home": {
+      "units": [
+        {
+          "ad_network": "admob"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_success": {
+      "units": [
+        {
+          "ad_network": "admob"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    }
+  }
+}
