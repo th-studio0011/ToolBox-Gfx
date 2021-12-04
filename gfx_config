@@ -8,7 +8,8 @@
     "open_splash": {
       "units": [
         {
-          "ad_network": "admob"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-5026270687123701/8558541559"
         },
         {
           "ad_network": "startio"
@@ -18,7 +19,8 @@
     "full_apply": {
       "units": [
         {
-          "ad_network": "admob"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-5026270687123701/2340617561"
         },
         {
           "ad_network": "startio"
@@ -28,7 +30,8 @@
     "native_home": {
       "units": [
         {
-          "ad_network": "admob"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-5026270687123701/6851364754"
         },
         {
           "ad_network": "startio"
@@ -38,7 +41,8 @@
     "native_success": {
       "units": [
         {
-          "ad_network": "admob"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-5026270687123701/4484221710"
         },
         {
           "ad_network": "startio"
